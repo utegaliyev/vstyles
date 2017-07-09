@@ -1,0 +1,2 @@
+{"_id":{"$oid":"59623a05e1bc830e74c87a93"},"name":"филиал Алматы","operation":[],"parent":null}
+{"_id":{"$oid":"59623ae2e1bc830e74c87a94"},"name":"Алматы, пл Республики 15","operation":[{"$oid":"59623779e1bc830e74c87a90"},{"$oid":"59623821e1bc830e74c87a92"}],"parent":{"$oid":"59623a05e1bc830e74c87a93"}}

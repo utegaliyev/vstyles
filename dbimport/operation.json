@@ -1,0 +1,6 @@
+{"_id":{"$oid":"596236cfe1bc830e74c87a8f"},"name":"Переводы внутри своих счетов","description":"Переводы внутри своих счетов","information_system":{"$oid":"596235b5e1bc830e74c87a8d"},"children":[{"$oid":"59624a51e1bc830e74c87a98"},{"$oid":"59624a51e1bc830e74c87a99"}]}
+{"_id":{"$oid":"59623779e1bc830e74c87a90"},"name":"Создание документов","description":"Создание документов","information_system":{"$oid":"596235b5e1bc830e74c87a8d"},"children":[{"$oid":"596236cfe1bc830e74c87a8f"}]}
+{"_id":{"$oid":"596237d9e1bc830e74c87a91"},"name":"Открытие депозита","description":"Открытие депозита","information_system":{"$oid":"596235b5e1bc830e74c87a8d"},"children":[]}
+{"_id":{"$oid":"59623821e1bc830e74c87a92"},"name":"Открытие счета","description":"Открытие счета","information_system":{"$oid":"596235b5e1bc830e74c87a8d"},"children":[{"$oid":"596237d9e1bc830e74c87a91"}]}
+{"_id":{"$oid":"59624a51e1bc830e74c87a98"},"name":"Переводы между своими счетами с конвертацией","description":"Переводы между своими счетами с конвертацией","information_system":{"$oid":"59623779e1bc830e74c87a90"}}
+{"_id":{"$oid":"59624a51e1bc830e74c87a99"},"name":"Переводы между своими счетами без конвертацией","description":"Переводы между своими счетами без конвертацией","information_system":{"$oid":"59623779e1bc830e74c87a90"}}
